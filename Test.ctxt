@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Test
+comment0.text=\r\n\ Convert\ -15\ to\ eight\ bit\ two's\ complement\r\n\ convert\ 15\ to\ binary\ 00001111\ (repeated\ divide\ by\ 2....)\r\n\ Flip\ the\ bits\ \ \ \ \ \ \ \ 11110000\r\n\ Add\ one\ \ \ \ \ \ \ \ \ \ \ \ \ \ 11110001\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=shapes\ type
+comment2.target=void\ filterPrint(java.util.List,\ java.lang.String)
+numComments=3
